@@ -9,7 +9,6 @@ This is a simple chatbot built using Python as part of my Year 10 project. The c
 ✅ Simple and easy-to-use command-line interface  
 
 ## Technologies Used  
-- **Python 3**  
 - `random` module (for varied responses)  
 - `datetime` module (to add realistic delays)  
 
