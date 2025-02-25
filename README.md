@@ -1,15 +1,20 @@
-# Chatbot Project
+# Python Chatbot 🤖  
 
 ## Overview  
-This is a simple chatbot built using Python during my Year 10 studies. The chatbot is designed to engage in basic conversations, answer predefined questions, and provide simple responses based on user input.
+This is a simple chatbot built using Python as part of my Year 10 project. The chatbot interacts with users by responding to predefined inputs and simulating a basic conversation.  
 
 ## Features  
-- Basic text-based interaction  
-- Predefined responses for common questions  
-- Simple pattern matching for improved conversation flow  
-- User-friendly interface in the terminal  
+✅ Responds to common user inputs  
+✅ Uses basic pattern matching for conversation flow  
+✅ Simple and easy-to-use command-line interface  
 
 ## Technologies Used  
-- Python  
+- **Python 3**  
 - `random` module (for varied responses)  
-- `time` module (for slight delays to simulate human-like interaction)  
+- `time` module (to add realistic delays)  
+
+## Installation  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/jootpoot/Python-Chatbot.git
+   cd Python-Chatbot
