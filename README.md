@@ -1,7 +1,7 @@
 # Python Chatbot 🤖  
 
 ## Overview  
-This is a simple chatbot built using Python as part of my Year 10 project. The chatbot interacts with users by responding to predefined inputs and simulating a basic conversation.  
+This is a simple chatbot built using Python as part of a Year 10 project. The chatbot interacts with users by responding to predefined inputs and simulating a basic conversation.  
 
 ## Features  
 ✅ Responds to common user inputs  
